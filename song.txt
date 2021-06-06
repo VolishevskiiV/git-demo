@@ -17,4 +17,8 @@ i love this word
 разные комиты в мастере
 вот так вот
 
+<<<<<<< HEAD
 thtrhtrhthr
+=======
+65465fdgeg
+>>>>>>> feature
